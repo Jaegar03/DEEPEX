@@ -24,7 +24,13 @@
 - Firecrawl API key
 - Required Python packages (see `requirements.txt`)
 
+## Example Run
 
+![Topic Submission](assets/example-1.png)
+![Deep Research Execution](assets/example-2.png)
+![Full Report Generation](assets/example-3.png)
+
+## Usage
 
 1. Run the Streamlit app:
    ```bash
