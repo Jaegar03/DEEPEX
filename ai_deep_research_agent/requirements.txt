@@ -1,5 +1,5 @@
-google-genai
-firecrawl
-streamlit
-firecrawl-py
-python-dotenv
+google-genai>=1.0.0
+firecrawl-py>=1.0.0
+streamlit>=1.35.0
+python-dotenv>=1.0.0
+requests>=2.31.0
